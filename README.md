@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SuvankarDas
-- "FullStack ninja by day, Java padawan by night. Next.js & TypeScript whisperer—turning bugs into features since yesterday. 🚀"
+- "FullStack ninja by day, Java padawan by night. Next.js & TypeScript whisperer—turning bugs into features since.............................. yesterday. 🚀"
 
 - "I build stuff, break stuff, and (hopefully) fix stuff"
 - A passionate B.Tech student diving deep into FullStack development, with a solid grasp of modern web technologies. I thrive in the JavaScript ecosystem—crafting dynamic UIs with Next.js,
